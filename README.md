@@ -1,1 +1,1 @@
-# odin-recipes
+# This project will have recipes for certain foods and is a test project for the HTML aspect of the Odin Project 
